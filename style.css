@@ -15,7 +15,7 @@ body {
 	font-size: 3rem;
 	text-align: center;
 	padding-top: calc(50vh - 3rem);
-	opacity: 0.9;display: none;
+	opacity: 0.9;
 }
 
 .loading .loader {
